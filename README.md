@@ -1,3 +1,5 @@
+<img src="https://github.com/crshmk/electron-react-menu-bar/blob/master/app-image.png" width="300" />
+
 ## Boilerplate for macOS Electron Menu Bar App using React
 
 No Typescript 
