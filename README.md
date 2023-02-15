@@ -27,3 +27,9 @@ npm run build:app
 - React with hooks for state management
 - [IPC](https://www.electronjs.org/docs/latest/tutorial/ipc) 
 - [Template image](https://github.com/electron/electron/blob/main/docs/api/native-image.md#template-image) 
+
+### Icons 
+
+Use the [SF Symbols app](https://developer.apple.com/sf-symbols/) to create a template image for the menu bar
+
+Use [these instructions](https://apple.stackexchange.com/a/402653) to create a .icns icon for the applications folder

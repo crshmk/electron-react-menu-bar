@@ -5,7 +5,7 @@
   "main": "main/index.js",
   "scripts": {
     "build:renderer": "webpack",
-    "build:app": "npx electron-packager . menu-bar-app --overwrite",
+    "build:app": "npx electron-packager . menu-bar-app --overwrite --icon 'launch-icon.icns'",
     "start": "webpack s",
     "test": "jest",
     "dev": "concurrently -k \"BROWSER=none npm start\" \"npm:electron\"",
