@@ -15,8 +15,7 @@ const config = {
   show: false,
   webPreferences: {
     nodeIntegration: true,
-    preload: preloadPath,
-    webSecurity: false
+    preload: preloadPath
   }
 }
 
